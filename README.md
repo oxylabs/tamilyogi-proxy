@@ -29,7 +29,7 @@ TamilYogi proxies allow you to access the TamilYogi website from regions where i
 
 ![scale up with oxylabs](https://github.com/oxylabs/anonymous-proxies/assets/103110131/e84d5bb4-67b1-451a-a686-51ddc4b99bd5)
 
-
+Interested in more proxy related repositories? Check out our NEW [Free Proxy List](https://github.com/oxylabs/free-proxies)
 
 ## Contacts
 Email - hello@oxylabs.io
