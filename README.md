@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=tamilyogi-proxy-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 TamilYogi proxies allow you to access the TamilYogi website from regions where it may be blocked. These proxies hide your IP address, providing anonymity and unrestricted access to your favorite Tamil movies and shows. Ideal for movie enthusiasts and researchers studying regional cinema trends, TamilYogi proxies offer a seamless, secure, and private browsing experience. Gather publicly available data from the TamilYogi website without geographical limitations with TamilYogi proxies.
 
