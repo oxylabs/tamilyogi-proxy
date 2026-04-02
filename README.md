@@ -32,5 +32,4 @@ TamilYogi proxies allow you to access the TamilYogi website from regions where i
 Interested in more proxy related repositories? Check out our NEW [Free Proxy List](https://github.com/oxylabs/free-proxies)
 
 ## Contacts
-Email - hello@oxylabs.io
-<br><a href="https://oxylabs.drift.click/oxybot">Live chat</a>
+If you have questions or need support, reach out to us at support@oxylabs.io, or through live chat, accessible via [Oxylabs Dashboard](https://dashboard.oxylabs.io/en/), or join our [Discord community](https://discord.gg/Pds3gBmKMH). For enterprise-related inquiries, contact your dedicated account manager.
